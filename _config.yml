@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Niko Hsu"
   pronouns         : # example: "she/her"  
-  bio              : "Feed my focus and starve my distractions"
+  bio              : "PHD candidate"
   location         : "Xian, China"
   employer         : "NWPU University"
   uri              : # URL
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -71,6 +71,8 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : "https://www.zhihu.com/people/niko-16-93"
+  bilibili         : "https://space.bilibili.com/293688589?spm_id_from=333.1007.0.0"
+  csdn (technical blog) : "https://blog.csdn.net/NikoHsu?spm=1000.2115.3001.5343"
 
 
 # Site Settings
