@@ -8,13 +8,15 @@ redirect_from:
 ---
 
 
-Hello! I'm currently a second-year graduate student pursuing my Master's degree at [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). I have a strong passion for research in the field of artificial intelligence. My research interests encompass Intelligent Decision-making(Reinforcement Learning), Robotics, Multi-agent Systems and Embodied AI. Outside of my academic life, I am an enthusiast of psychology and enjoy hiking, badminton and swimming.
+Hello! I'm currently a second-year graduate student pursuing my Master's degree at [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). I have a strong passion for research in the field of artificial intelligence. My research interests encompass Intelligent Decision-making(Reinforcement Learning), Robotics, Multi-agent Systems and Embodied AI. 
+Outside of my academic life, I am an enthusiast of psychology and enjoy hiking, badminton and swimming.
 
 Education
 ======
 09/2022 ~ Present: Master, [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xian.
 
 09/2017 ~ 06/2022: B.Sc. in Automation, [GuangXi University](https://www.gxu.edu.cn/), Nanning.
+
 GPA: 3.32  (Rank 5st / 132 in the major)
 
 Project Experience
