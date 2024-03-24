@@ -35,7 +35,7 @@ Project Experience
 
 ![demopic](../images/mstile-70x70.png)
 
-![demopic](../images/framework.png)
+![demo03](../images/framework.png)
 
 Preprints
 ======
