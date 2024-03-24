@@ -25,11 +25,17 @@ Project Experience
 - **project1**
 
 ![demopic](../images/bio-photo.jpg)
-    - Subitem 1
-    - Subitem 2
+
+
+  - Subitem 1
+  
+  - Subitem 2
+
 - **project2**
 
 ![demopic](../images/mstile-70x70.png)
+
+![demopic](framework.png)
 
 Preprints
 ======
