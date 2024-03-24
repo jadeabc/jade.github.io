@@ -23,6 +23,7 @@ GPA: 3.32  (Rank 5st / 132 in the major)
 Project Experience
 ======
 - **project1**
+
 ![demopic](../images/bio-photo.jpg)
   - Subitem 1
   - Subitem 2
