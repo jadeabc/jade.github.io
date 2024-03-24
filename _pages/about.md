@@ -25,11 +25,11 @@ Project Experience
 - **project1**
 
 ![demopic](../images/bio-photo.jpg)
-  - Subitem 1
-  - Subitem 2
+    - Subitem 1
+    - Subitem 2
 - **project2**
-<iframe width="560" height="315" src="https://www.bilibili.com/video/BV1jf4y1Q7Rm" frameborder="0" allowfullscreen></iframe>
 
+![demopic](../images/mstile-70x70.png)
 
 Preprints
 ======
@@ -37,7 +37,7 @@ Preprints
 
 - **paper2**
 
-- paper3
+- **paper3**
   
 Site-wide configuration
 ------
