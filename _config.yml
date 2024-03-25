@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Niko Hsu / PHD candidate"
+title                    : "Niko Hsu / internship & RA candidate"
 title_separator          : "-"
 name                     : &name "Niko Hsu"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Niko Hsu"
   pronouns         : # example: "she/her"  
-  bio              : "PHD candidate"
+  bio              : "internship & RA candidate"
   location         : "Xian, China"
   employer         : "NWPU University"
   uri              : # URL
