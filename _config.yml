@@ -68,11 +68,11 @@ author:
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
-  xing             : jade
+  xing             : #
   youtube          : # Username
   zhihu            : "https://www.zhihu.com"
   bilibili         : abc
-  csdn             : abc
+  csdn             : abc     
 
 
 # Site Settings
