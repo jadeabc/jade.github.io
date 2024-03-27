@@ -24,7 +24,7 @@ Project Experience
 ======
 - **project1**
 
-![jade]([/images/mstile-144x144.png)
+![jade]([/images/bio-photo.jpg)
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
 
