@@ -25,8 +25,8 @@ Project Experience
 - **project1**
 
   这是项目1
-  ![Editing a markdown file for a talk](/images/editing-talk.png)
-![jade]([/images/bio-photo.jpg)
+
+![jade](/images/bio-photo.jpg)
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
 
