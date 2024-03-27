@@ -24,7 +24,8 @@ Project Experience
 ======
 - **project1**
 
-![demopic](../images/bio-photo.jpg)
+![jade]([../images/bio-photo.jpg](https://github.com/jadeabc/jade.github.io/blob/master/images/bio-photo.jpg))
+
 
 
   - Subitem 1
