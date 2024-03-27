@@ -24,8 +24,8 @@ Project Experience
 ======
 - **project1**
 
-![jade]([../images/mstile-144x144.png))
-
+![jade]([/images/mstile-144x144.png))
+![Editing a markdown file for a talk](/images/editing-talk.png)
 
 
   - Subitem 1
@@ -34,7 +34,7 @@ Project Experience
 
 - **project2**
 
-![demopic](../images/mstile-70x70.png)
+![demopic](/images/mstile-70x70.png)
 
 ![demo003](https://github.com/NikoHsu/Niko.github.io/blob/master/images/framework.png)
 
