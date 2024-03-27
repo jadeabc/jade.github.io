@@ -26,8 +26,8 @@ Project Experience
 
   这是项目1
 
-![jade]([/images/bio-photo.jpg](https://github.com/jadeabc/jade.github.io/blob/master/images/editing-talk.png))
-![Editing a markdown file for a talk](/images/editing-talk.png)
+
+![Editing a markdown file for a talk](/jade.github.io//images/editing-talk.png)
 
 
   - Subitem 1
@@ -38,7 +38,7 @@ Project Experience
 
 ![demopic](/jade.github.io/images/mstile-70x70.png)
 
-![demo003](https://github.com/NikoHsu/Niko.github.io/blob/master/images/framework.png)
+![demo003](/jade.github.io/images/framework.png)
 
 Preprints
 ======
