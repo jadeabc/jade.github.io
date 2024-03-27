@@ -26,7 +26,7 @@ Project Experience
 
   这是项目1
 
-![jade](/images/bio-photo.jpg)
+![jade]([/images/bio-photo.jpg](https://github.com/jadeabc/jade.github.io/blob/master/images/editing-talk.png))
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
 
