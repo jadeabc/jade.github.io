@@ -24,7 +24,7 @@ Project Experience
 ======
 - **project1**
 
-![jade]([../images/bio-photo.jpg](https://github.com/jadeabc/jade.github.io/blob/master/images/bio-photo.jpg))
+![jade]([../images/mstile-144x144.png))
 
 
 
